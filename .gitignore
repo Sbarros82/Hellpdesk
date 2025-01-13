@@ -1,0 +1,14 @@
+# Arquivos de banco de dados
+*.db
+*.sql
+
+# Arquivos de configuração
+config.json
+api_keys.txt
+
+# Arquivos de log
+*.log
+
+# Outros arquivos sensíveis
+senha.txt
+dados_usuarios.csv
